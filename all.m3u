@@ -1581,8 +1581,6 @@ https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/zZwMM3d/arparl.png",AR PARLAMENTO
 https://playout175.livextend.cloud/livenlin4/_definst_/2liveartvpub2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/V3Hk3KC/adb.png",ADB TV
-https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/DCzRYjV/mca.png",MCA
 https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/WVzhVbc/portoc.png",PORTO CANAL (mostly off)
@@ -1609,12 +1607,6 @@ https://sic.live.impresa.pt/sic.m3u8
 https://sic.live.impresa.pt/live/sicint/sicint.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/1QHfvZJ/sicnoc.png",SIC NOTICIAS [geo-blocked]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN PORTUGAL [find-host]
-https://PuthereYourserverHostaddress/cnnpcurlua.php?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI [find-host]
-https://PuthereYourserverHostaddress/tvicurlua.php?m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI INT [find-host]
-https://PuthereYourserverHostaddress/tviintcurlua.php?m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN PORTUGAL [tkn-blocked]
 https://video-auth7.iol.pt/edge_servers/cnn-720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI [tkn-blocked]
@@ -1622,25 +1614,21 @@ https://video-auth2.iol.pt/edge_servers/tvi-720_passthrough/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/pyXp0bk/tvi.png",TVI INT [tkn-blocked]
 https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg",TVI FICCAO [tkn-blocked]
-https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8?wmsAuthSign=
+https://video-auth6.iol.pt/live_tvi_ficcao/live_tvi_ficcao/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/hg8wkqj/tvific.jpg",TVI FICCAO [tkn-blocked]
 https://video-auth2.iol.pt/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY [tkn-blocked]
-https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/playlist.m3u8?wmsAuthSign=
+https://video-auth6.iol.pt/live_tvi_reality/live_tvi_reality/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY [tkn-blocked]
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY [tkn-blocked]
 https://video-auth2.iol.pt/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3YZFCjp/rtp1.jpg" user-agent="Firefox",RTP 1 [ontv-off]
 https://streaming-live-app.rtp.pt/liverepeater/rtp1HD.smil/rtp_playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/tbFT1V2/rtp2.jpg" user-agent="Firefox",RTP 2 [ontv-off]
 https://streaming-live-app.rtp.pt/liverepeater/rtp2HD.smil/rtp_playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/6r1xHn6/sic.png",SIC [offline]
-https://eventos.live.impresa.pt/opto_in1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png",SIC NOVELAS [offline]
-https://eventos.live.impresa.pt/opto_in2.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/dJZR1gD/sicnov.png",SIC NOVELAS [offline]
-https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_kfaion7y/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/V3Hk3KC/adb.png",ADB TV
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/5M4CwmQ/watania1.png" group-title="|MA-DZ-TN|🇲🇦🇩🇿🇹🇳 MAGHREB المغرب",WATANIA 1

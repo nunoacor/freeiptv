@@ -3293,7 +3293,7 @@ https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ROYA TV (backup)
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",MTV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=m67zo
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=iVdDk_pucFz0CJ-wSffO0A:8lP4afux4ud6nS52OYm8KdQWiiSg7SdLisYedKthYseGkj6Zbaab7KbicheOeRuiD_tBBI0sgR6p3lQ8HSHItYvxghnpNOejD0KfAe_3zHWJC49TzYjTjxQ9cY2ONMvQWa16XnaK1-Ilp8DQiISL3ySpULLqYrgzdmljSCTv9MUNHBJdfptaUpm7pQmV5lG_y3jZ1QpMtHJBr_YXVI3akxDZANB01vZtPreIXS1HMMsToBFJoqTXjY6Q-8Z-VB68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" user-agent="Mozilla/5.0" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",MTV_LBN [offline]
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" user-agent="Mozilla/5.0" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV_LBN [offline]

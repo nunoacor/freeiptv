@@ -1,4 +1,4 @@
-name: rtp_1pt
+name: rtp1
 
 on:
   schedule:
@@ -17,8 +17,8 @@ jobs:
           git config --global user.email "<>"
           git config --global user.name "rtp1pt bot"
       
-      - name: updating rtp1pt
-        run: python3 ressources/tvipt/py/rtp_1.py
+      - name: updating rtp1
+        run: python3 ressources/tvipt/py/rtp1.py
         
       - name: git add
         run: |

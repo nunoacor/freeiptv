@@ -4,7 +4,7 @@ import re
 # === Config ===
 cdn_url = "https://popcdn.day/player.php?stream=RTP1"
 referer = "https://freeshot.live/"
-output_file = "ressources/tvipt/py/rtp_1.m3u8"
+output_file = "ressources/tvipt/py/rtp1.m3u8"
 
 headers = {
     "Referer": referer,

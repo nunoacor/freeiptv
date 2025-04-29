@@ -1,4 +1,10 @@
-#EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="por a1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="por",URI="https://moonlight.wideiptv.top/RTP1/tracks-a1/index.fmp4.m3u8?token=3c39c7fa5a56700b037b2328bd50c6daf94a5728-cf475fc7c70df0ed1b26b907fb53a3ec-1745934371-1745923571"
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1850000,BANDWIDTH=2320000,AUDIO="aac",RESOLUTION=704x396,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://moonlight.wideiptv.top/RTP1/tracks-v1/index.fmp4.m3u8?token=3c39c7fa5a56700b037b2328bd50c6daf94a5728-cf475fc7c70df0ed1b26b907fb53a3ec-1745934371-1745923571
+[✅] Found iframe URL:
+https://moonlight.wideiptv.top/RTP1/embed.html?token=05b04adb1f03a03a2881eec611af43a9341e13a7-9af0edcccf0e9b3b5f13eecdd6ca1921-1745942127-1745931327&remote=no_check_ip
+
+🎯 Audio URL:
+https://moonlight.wideiptv.top/RTP1/tracks-a1/index.fmp4.m3u8?token=05b04adb1f03a03a2881eec611af43a9341e13a7-9af0edcccf0e9b3b5f13eecdd6ca1921-1745942127-1745931327
+
+🎯 Video URL:
+https://moonlight.wideiptv.top/RTP1/tracks-v1/index.fmp4.m3u8?token=05b04adb1f03a03a2881eec611af43a9341e13a7-9af0edcccf0e9b3b5f13eecdd6ca1921-1745942127-1745931327
+
+💾 Saved to file: ressources/tvipt/py/rtp1.m3u8

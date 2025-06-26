@@ -1,10 +1,4 @@
-[✅] Found iframe URL:
-https://moonlight.wideiptv.top/RTP1/embed.html?token=a2fa4d4a2e0687aaa075f9c6bf3443e2445b6c48-19adf74a0f730d64a65e65a969318db0-1750953354-1750942554&remote=no_check_ip
-
-🎯 Audio URL:
-https://moonlight.wideiptv.top/RTP1/tracks-a1/index.fmp4.m3u8?token=a2fa4d4a2e0687aaa075f9c6bf3443e2445b6c48-19adf74a0f730d64a65e65a969318db0-1750953354-1750942554
-
-🎯 Video URL:
-https://moonlight.wideiptv.top/RTP1/tracks-v1/index.fmp4.m3u8?token=a2fa4d4a2e0687aaa075f9c6bf3443e2445b6c48-19adf74a0f730d64a65e65a969318db0-1750953354-1750942554
-
-💾 Saved to file: ressources/tvipt/py/rtp1.m3u8
+#EXTM3U
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="por a1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="por",URI="https://moonlight.wideiptv.top/RTP1/tracks-a1/index.fmp4.m3u8?token=821a2c0779631d0b007a6ed2dd03937b9c06602b-9527f9385bfc721c9a09f26a2bbf2c18-1750954495-1750943695"
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1850000,BANDWIDTH=2320000,AUDIO="aac",RESOLUTION=704x396,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://moonlight.wideiptv.top/RTP1/tracks-v1/index.fmp4.m3u8?token=821a2c0779631d0b007a6ed2dd03937b9c06602b-9527f9385bfc721c9a09f26a2bbf2c18-1750954495-1750943695

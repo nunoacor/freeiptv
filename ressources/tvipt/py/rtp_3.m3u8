@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="por a1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="por",URI="https://moonlight.wideiptv.top/RTP3/tracks-a1/index.fmp4.m3u8?token=de6c4acce33f28a81a1b2fef9a2fe38e2a24197c-dc5454b623f87bbcbfa3cc3bad66cddd-1751665701-1751654901"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="por a1",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="por",URI="https://moonlight.wideiptv.top/RTP3/tracks-a1/index.fmp4.m3u8?token=7fb3bd98bf62ecce4be4cbd3a5895152ce9232fe-fd45bcea6140a40314a01efe8b2362df-1751672592-1751661792"
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1850000,BANDWIDTH=2320000,AUDIO="aac",RESOLUTION=704x396,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://moonlight.wideiptv.top/RTP3/tracks-v1/index.fmp4.m3u8?token=de6c4acce33f28a81a1b2fef9a2fe38e2a24197c-dc5454b623f87bbcbfa3cc3bad66cddd-1751665701-1751654901
+https://moonlight.wideiptv.top/RTP3/tracks-v1/index.fmp4.m3u8?token=7fb3bd98bf62ecce4be4cbd3a5895152ce9232fe-fd45bcea6140a40314a01efe8b2362df-1751672592-1751661792

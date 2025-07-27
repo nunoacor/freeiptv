@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a1",DEFAULT=YES,URI="https://fullness.wideiptv.top/RTP_INT/tracks-a1/index.fmp4.m3u8?token=a0da2d5dfa4abc66d45749adb21844ebfe1e0a70-41ffbbad893bbda7101fc0cc61c3a356-1753632733-1753621933"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="undefined a1",DEFAULT=YES,URI="https://fullness.wideiptv.top/RTP_INT/tracks-a1/index.fmp4.m3u8?token=bb80a4f5902fa43eada9d5775769b657827448be-a5defd5151b8ee1e7cccd9b927efdcf1-1753638235-1753627435"
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1850000,BANDWIDTH=2320000,AUDIO="aac",RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.4d401e,mp4a.40.2",CLOSED-CAPTIONS=NONE
-https://fullness.wideiptv.top/RTP_INT/tracks-v1/index.fmp4.m3u8?token=a0da2d5dfa4abc66d45749adb21844ebfe1e0a70-41ffbbad893bbda7101fc0cc61c3a356-1753632733-1753621933
+https://fullness.wideiptv.top/RTP_INT/tracks-v1/index.fmp4.m3u8?token=bb80a4f5902fa43eada9d5775769b657827448be-a5defd5151b8ee1e7cccd9b927efdcf1-1753638235-1753627435

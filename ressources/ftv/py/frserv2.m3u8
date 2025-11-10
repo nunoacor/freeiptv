@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2961690,AVERAGE-BANDWIDTH=2961690,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",SUBTITLES="subtitles",AUDIO="audio_0"
-https://live-series.ftven.fr/ZXhwPTE3NjI3NDI5NDl+YWNsPSUyZip+aG1hYz05OTdiMDI3OWY5YmVkNmFhMDE0M2EzM2Q1NDJlMDAwMjNiMTY4MTEwN2FiNzM3MmI1NzFhZTNjNzliNWZlMjhm/hls-francedomtom/index_20.m3u8?hdnea=exp=1762721949~acl=%2f*~hmac=78e790d79aadae12f3a71c08fb3bf99ba8715f2d24ac19f5d9bb2f0961c5e4d2
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fr",LANGUAGE="fr",DEFAULT=YES,AUTOSELECT=YES,URI="https://live-series.ftven.fr/ZXhwPTE3NjI3NDI5NDl+YWNsPSUyZip+aG1hYz05OTdiMDI3OWY5YmVkNmFhMDE0M2EzM2Q1NDJlMDAwMjNiMTY4MTEwN2FiNzM3MmI1NzFhZTNjNzliNWZlMjhm/hls-francedomtom/index_8_0.m3u8?hdnea=exp=1762721949~acl=%2f*~hmac=78e790d79aadae12f3a71c08fb3bf99ba8715f2d24ac19f5d9bb2f0961c5e4d2"
+https://live-series.ftven.fr/ZXhwPTE3NjI3NjMyMTR+YWNsPSUyZip+aG1hYz1kNWIzMWZhZmUzNjBkZDU2ODJjMjkwYjhlMzlhZjZiMzJlMzg1Njg2YTdhNjkyNGIwM2YzZTNhNWYyODkyMjIz/hls-francedomtom/index_20.m3u8?hdnea=exp=1762742214~acl=%2f*~hmac=ca52fc89bf4f9adcb20a9d235eeac3b0bfaae7c5b075300999cb6eada4b5d1fb
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="fr",LANGUAGE="fr",DEFAULT=YES,AUTOSELECT=YES,URI="https://live-series.ftven.fr/ZXhwPTE3NjI3NjMyMTR+YWNsPSUyZip+aG1hYz1kNWIzMWZhZmUzNjBkZDU2ODJjMjkwYjhlMzlhZjZiMzJlMzg1Njg2YTdhNjkyNGIwM2YzZTNhNWYyODkyMjIz/hls-francedomtom/index_8_0.m3u8?hdnea=exp=1762742214~acl=%2f*~hmac=ca52fc89bf4f9adcb20a9d235eeac3b0bfaae7c5b075300999cb6eada4b5d1fb"

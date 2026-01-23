@@ -3305,7 +3305,7 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" user-agent="Mozilla/5.0",ONE TV_LBN [offline]
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg",ONE TV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=lF2-k2udQ11BYXgAW7uYRA:RjGEqZIWHYvtOGgNDpdqJWaI1tHfyYxasUhWsHVfFw4_nkHI-zD6t-UewRhoZdrLUNRqh3SVtrjXwX-QzVjDNizFHtVUED3McvE2eTxZF1pbANPaFsIbXSpzveQiO0sMFspNDr5tj3E4LppqUKiQ8_PvRGphif5wZdMRvnFltQGU9SZhsKDu70n2Q-cBp7gTJLOCMUmPxgI-O3SK3fZXqhE2xrIkCX3-kRrDD8dYMFtoT36Em1I7E6ycniQdndvQ
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=FWAsvM97U-TcoLSTCQ9IEg:OAtKWQDLSWh3raYBRMajMXmLWiYLPJPvjtZgDxHCuN4qHpzEl1RgJl7qN-kA7YGcIdrACdPF1n1SaGkjMaJGZkEq0x7rGfSbKT3zsNZdBwOznSosqTylRBpcTTrV4bTCJtgNvPO5lVh5iRRvihtBMhspJkGljnWX3bIHGxDyBJu9A83-EWYN0DQ9Ap9NQWK8OF5T4pG39EQtoLa5bV38TXn7dwEeasW0l8e6C4AhOobDNT8ycxNzTNQLJQcqG33i
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg",LBC LBN [geoblocked]
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg",OTV LBN [brokenlink]

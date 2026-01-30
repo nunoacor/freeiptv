@@ -3299,7 +3299,7 @@ https://roya-live.ercdn.net/roya/roya.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/84HtHzK/Roya-TV.png",ROYA TV (backup)
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png",MTV LBN
-https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=CIoJJW9I18YkAL4zq48fvA:oUtXc2uhFB8TGLtE0ajAj-hDg6UmndhzjRVA3CYZYZVFazeZfRq6ccIOzUbZ9KB-7dyVlo9JJunap88_UQ4l8eDncinshTrcOmu9vs_QsHMaFEEyhnfyE9Jw4FfATD610_9kTpUaTCsFZw9nm46ifpUNCxtZciNoM8V5aQaGVMlf1rig7fRWSTTqeZMy2srfkXLYH38cBaCuKeeUhhAgpWdGqFR9DDJYQw_30tc70RoIq4XL2Bh8FTiK_EkKVd46
+https://hms.pfs.gdn/hms/v1/stream/mtv.m3u8?token=AAvMwozip25-fx_yJmJ3RA:Cvu5zzkdgu91IAVhgBcgNOVCt-S8ha_oCbT0EM9tG7oPa9vJx4Qywf2w8nCeMsHfulGEXjB6_FbtXHjci6iYACNb02H1NMqwfamNg3NJkrj17oAAEdpgoYw1BZodXh9C9t7tvtDwhd35yRxPgrTV3Waq7-So7zsHkIczOcX1sAuJu1fuglLr884iW7V00jCiPabUH6cuQft59sEfns-nkzw8qIBKnaAWk-DMZw8TVTfDPgfSXaXe3VolBUjfj3vk
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F3rnLz2/mtvleb.png" user-agent="Mozilla/5.0",MTV_LBN [offline]
 https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" user-agent="Mozilla/5.0",ONE TV_LBN [offline]
